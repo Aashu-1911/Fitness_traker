@@ -6,6 +6,7 @@ export const generateDailyChallenge = (bmiCategory, goals) => {
     'Weight Loss': [
       {
         title: '10,000 Steps Challenge',
+        
         description: 'Walk or run 10,000 steps today. Track your progress and stay active throughout the day!',
       },
       {
